@@ -1,6 +1,9 @@
 # About
 Site for menulis.xyz
 
+## To do
+tagging system
+
 ## To write
 
 Everything about writing. 

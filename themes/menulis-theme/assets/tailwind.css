@@ -12,6 +12,11 @@
     margin-bottom: 15px;
 }
 
+.single ul, .single ol{
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+
 .single li {
     list-style-type: disc;
     list-style-position: inside;
