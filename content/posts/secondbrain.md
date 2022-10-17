@@ -15,7 +15,7 @@ Bagaimana kalau kamu punya asisten untuk berpikir? Asisten ini punya kemampuan u
 Daftar di atas adalah sebagian manfaat yang akan kamu rasakan saat mencoba menggunakan "second brain" (otak kedua). 
 
 {{< alert >}}
-Artikel ini bukan penjelasan sistem "second brain" <br> yang dipopulerkan oleh Tiago Forte secara 1:1, namun banyak beririsan.
+Artikel ini bukan penjelasan sistem "second brain" <br> yang dipopulerkan oleh Tiago Forte secara 1:1, namun banyak beririsan dan salah satu inspirasi.
 {{< /alert >}}
 
 ## Masalah dengan pikiran kita
