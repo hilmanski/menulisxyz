@@ -15,7 +15,7 @@ Bagaimana kalau kamu punya asisten untuk berpikir? Asisten ini punya kemampuan u
 Daftar di atas adalah sebagian manfaat yang akan kamu rasakan saat mencoba menggunakan "second brain" (otak kedua). 
 
 {{< alert >}}
-Artikel ini bukan penjelasan sistem "second brain" <br> yang dipopulerkan oleh Tiago Forte secara 1:1, namun banyak beririsan dan salah satu inspirasi.
+Artikel ini bukan penjelasan sistem "second brain" <br> yang dipopulerkan oleh Tiago Forte secara 1:1, namun menjadi inspirasi.
 {{< /alert >}}
 
 ## Masalah dengan pikiran kita
@@ -74,7 +74,7 @@ Pikiran kita akan terganggu dengan banyak hal, karena itu pakailah bantuan yang 
 
 Poinnya adalah selalu simpan hal menarik yang kamu temukan atau pikirkan. Jangan mengandalkan ingatan. 
 
-### Gunakan aplikasi untuk menyimpan bit ini
+### Gunakan aplikasi
 Sehari-hari kita dekat dengan handphone ataupun komputer, manfaatkan alat ini. Jangan sekedar menjadi media hiburan. 
 
 **Aplikasi mencatat**  
@@ -85,6 +85,11 @@ Untuk menyimpan link, kamu bisa menggunakan **bookmark manager**. Biasanya diins
 Contoh: [raindrop](https://raindrop.io/), [pocket](https://getpocket.com/en/), dll.
 
 Kamu juga bisa menggunakan aplikasi mencatat sebagai tempat menyimpan link. Hanya saja bookmark manager lebih praktis.
+
+**Aplikasi pengingat**  
+Aplikasi kalender atau reminder tentu menjadi bagian penting dari sini. Saat ada kebiasaan yang ingin kita bentuk, kita bisa menyerahkan pada aplikasi ini. Seperti jam berolahrga pada hari tertentu, mengingatkan untuk menegerjakan side-project dll.
+
+Sekedar menjadi pengingat saat ada janji hari ini. Sehingga kita tidak lupa lagi apa yang sudah jadi kewajiban. Dan pada saat membuat janji berikutnya, kita bisa melihat seperti apa jadwal kita hari/minggu/bulan ini. Sehingga tidak membuat janji yang bertumpuk atau menggangu kegiatan utama kita.
 
 Di bagian bawah nanti ada tips untuk memilih toolnya.
 
@@ -206,3 +211,4 @@ Beri juga saran apa yang bisa saya kembangkan dari catatan ini.
 - [Catatan MaggieAppleton tentang secondbrain](https://maggieappleton.com/basb)
 - [Video How to organize your life - Ali Abdaal](https://www.youtube.com/watch?v=K-ssUVyfn5g)
 - [Blog building a second brain](https://fortelabs.com/blog/category/building-a-second-brain/)
+- [Tentang produktivitas](https://hilman.space/produktivitas/)
