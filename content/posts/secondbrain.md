@@ -9,10 +9,11 @@ Bagaimana kalau kamu punya asisten untuk berpikir? Asisten ini punya kemampuan u
 
 - Membantu mengingat apapun yang pernah kamu temui.
 - Memunculkan ide-ide dan rencanamu saat dibutuhkan, meskipun sudah bertahun-tahun dibuat.
+- Membantu kamu berpikir dan mengembangkan ide
 - Memastikan aktivitas yang ingin dilakukan sudah melewati verifikasi tertentu agar tidak terjadi kesalahan.
 - dan banyak lagi...   
 
-Daftar di atas adalah sebagian manfaat yang akan kamu rasakan saat mencoba menggunakan "second brain" (otak kedua). 
+Daftar di atas adalah sebagian manfaat yang akan kamu rasakan saat mencoba menggunakan "second brain". 
 
 {{< alert >}}
 Artikel ini bukan penjelasan sistem "second brain" <br> yang dipopulerkan oleh Tiago Forte secara 1:1, namun menjadi inspirasi.
@@ -35,7 +36,7 @@ Dalam satu hari ada banyak sekali yang terjadi dengan kehidupan kita. Pikiran se
 {{< /custom >}}
 
 ## Efek sampik mengandalkan memori (menghafal)
-Kita cenderung mengandalkan memori yang sayangnya sangatlah rapuh. Karena banyaknya kejadian yang kita singgung di atas. 
+Kita cenderung mengandalkan memori yang sayangnya sangatlah rapuh oleh banyaknya kejadian yang disinggung di atas. 
 
 Akibatnya:  
 - Kehilangan ide menarik
@@ -50,13 +51,13 @@ Akibatnya:
 
 ## Kenalkan Otak kedua (a.k.a Second Brain)
 
-Second Brain ini bukanlah aplikasi atau step by step yang kaku. Tapi second brain adalah cara kita mengumpulkan hal-hal (kecil atau besar) agar mudah kita olah, kelompokkan dan kembangkan nanti di luar kepala.  
+Second Brain ini bukanlah aplikasi atau step by step yang kaku. Second brain adalah cara kita mengumpulkan hal-hal (kecil atau besar) agar mudah kita olah, kelompokkan dan kembangkan nanti di luar kepala.  
 
-Sebelum mengenal istilah ini Second Brain yang dipopulerkan Tiago Forte ini, saya sudah hampir setiap hari menjadikan catatan untuk berpikir dan biar tidak lupa mengerjakan apa. Tapi ada banyak hal setelah yang saya pelajari dan praktekkan setelah mengeksplor tentang Second Brain ini. Semoga kamu juga terbantu
+Sebelum mengenal istilah Second Brain yang dipopulerkan Tiago Forte ini, hampir setiap hari, saya menjadikan catatan sebagai alat berpikir dan cara mengingat sesuatu. Namun ada banyak hal yang saya dapatkan setelah mempelajari dan mempraktekkan tips-tips Second Brain ini. Semoga kamu juga terbantu
 
 ### 1. Menyimpan bit
 
-Bagian pertama yang sangat penting adalah menyimpan bit (hal sekecil apapun) yang biasanya kita simpan di kepala (ingat). 
+Bagian pertama yang sangat penting adalah: "Menyimpan bit". Hal sekecil apapun yang biasanya harus kamu ingat. Kali ini kita simpan hafalannya di luar kepala dengan catatan. 
 
 Pikiran kita akan terganggu dengan banyak hal, karena itu pakailah bantuan yang ada. Tuangkan apa yang kamu temukan/ingin pikirkan, baik dalam bentuk kertas fisik, tulisan digital atau mereka suara/video. *Kita akan bahas kenapa perlu memanfaatkan digital.
 
@@ -64,7 +65,7 @@ Pikiran kita akan terganggu dengan banyak hal, karena itu pakailah bantuan yang 
 
 -Kamu sedang mengerjakan hal A, tiba-tiba kepikiran ide bisnis baru. Di saat seperti ini ada 2 hal. Kamu bisa meninggalkan aktivitas A tadi (padahal bisa jadi ini kerjaan penting) atau menyingkirkan ide baru agar tidak mengganggu konsentrasimu.   
 
-**Harusnya:** simpan idemu dengan merekam suara/mencatat agar bisa kamu kunjungi lagi nanti.
+**Harusnya:** simpan idemu dengan merekam suara/mencatat agar bisa kamu kunjungi lagi nanti. Lanjutkan kerjaan saat ini.
 
 -Ketemu artikel seru banget di internet, yang bisa bantu proyekmu. Saat lagi baca.. tiba-tiba ada yang panggil. Akhirnya tab bacaaan tertutup dan terlewat.  
 
@@ -72,7 +73,7 @@ Pikiran kita akan terganggu dengan banyak hal, karena itu pakailah bantuan yang 
 
 -Ngobrol dengan teman, ketemu hal menarik, rencana bikin ini dan itu. Tapi lewat begitu saja, karena tidak ada dokumentasinya. Semua lupa. 
 
-**Harusnya:** tuangkan pikiran kamu ke tulisan. Fisik ataupun digital
+**Harusnya:** tuangkan pikiran kamu ke tulisan. Fisik ataupun digital. 
 
 Poinnya adalah selalu simpan hal menarik yang kamu temukan atau pikirkan. Jangan mengandalkan ingatan. 
 
@@ -80,39 +81,43 @@ Poinnya adalah selalu simpan hal menarik yang kamu temukan atau pikirkan. Jangan
 Sehari-hari kita dekat dengan handphone ataupun komputer, manfaatkan alat ini. Jangan sekedar menjadi media hiburan. 
 
 **Aplikasi mencatat**  
-Tuliskan isi pikiran kamu dan refrensi refrensi menarik dalam satu aplikasi catatan. Untuk memulai di produk apple ada "notes", windows ada "notepad". Setiap hari bermunculan aplikasi baru yang bisa kamu coba. Atau aplikasi online "Notion" yang saat ini sedang populer digunakan.
+Tuliskan isi pikiran kamu dan refrensi-refrensi menarik dalam satu aplikasi catatan. 
+
+Untuk memulai, di produk apple ada "notes", windows ada "notepad". Setiap hari bermunculan aplikasi baru yang bisa kamu coba. Ada juga aplikasi online "Notion" yang saat ini sedang populer digunakan.
 
 **Bookmark Manager**  
 Untuk menyimpan link, kamu bisa menggunakan **bookmark manager**. Biasanya diinstall di browser yang digunakan. Ketemu tweet menarik, artikel, link baru, video seru, segera simpan!.
 Contoh: [raindrop](https://raindrop.io/), [pocket](https://getpocket.com/en/), dll.
 
-Kamu juga bisa menggunakan aplikasi mencatat sebagai tempat menyimpan link. Hanya saja bookmark manager lebih praktis.
+Kamu juga bisa menggunakan aplikasi mencatat sebagai tempat menyimpan link. Hanya saja bookmark manager lebih praktis. (Bisa jadi aplikasi catatanmu punya extension bookmark manager.)
 
 **Aplikasi pengingat**  
-Aplikasi kalender atau reminder tentu menjadi bagian penting dari sini. Saat ada kebiasaan yang ingin kita bentuk, kita bisa menyerahkan pada aplikasi ini. Seperti jam berolahrga pada hari tertentu, mengingatkan untuk menegerjakan side-project dll.
+Aplikasi kalender, alarm atau reminder menjadi bagian penting di sini. Saat ada kebiasaan yang ingin kita bentuk, serahkan pada aplikasi ini. Seperti jam berolahrga pada hari tertentu, mengingatkan untuk menegerjakan side-project dll.
 
-Sekedar menjadi pengingat saat ada janji hari ini. Sehingga kita tidak lupa lagi apa yang sudah jadi kewajiban. Dan pada saat membuat janji berikutnya, kita bisa melihat seperti apa jadwal kita hari/minggu/bulan ini. Sehingga tidak membuat janji yang bertumpuk atau menggangu kegiatan utama kita.
+Bisa juga jadi sekedar pengingat saat ada janji hari ini. Sehingga kita tidak lupa lagi apa yang sudah jadi kewajiban. Dan pada saat harus membuat janji, kita bisa melihat jadwal kita hari/minggu/bulan ini. Sehingga tidak bertumpuk atau menggangu kegiatan utama.
 
-Di bagian bawah nanti ada tips untuk memilih toolnya.
+*Di bagian bawah nanti ada tips untuk memilih toolnya.*
 
 ### 2. Mengelompokkan bit
-Disarankan untuk mengkategorikan catatan/link yang kamu kumpulkan per "proyek" yang ingin kamu lakukan. Contoh saya sedang mengerjakan "sekolah online untuk koding". Baik inspirasi design, teknik membuat, podcast edukasi saya kumpulkan di bawah kategori yang sama dengan nama `#sekolahkoding`. 
+Disarankan untuk mengkategorikan catatan/link yang kamu kumpulkan per "proyek" yang ingin kamu lakukan. Contoh saya sedang mengerjakan "sekolah online untuk belajar Koding". Baik inspirasi design, teknis membuatnya sampai episode podcast menarik saya kumpulkan di bawah kategori yang sama dengan nama `#sekolahkoding`. 
 
-Jadi saat ingin mengakses hal ini saya bisa mencari dengan kata kunci tersebut atau membuka 'folder' dari proyek ini. Saya juga memisahkannya ke subkategori, misalnya `#sekolahkoding/marketing` untuk hal-hal yang saya pelajari atau ingin lakukan untuk marketingnya. Begitu juga dengan `#sekolahkoding/design` untuk kumpulan inspirasi design yang ingin saya pakai. 
+Jadi saat ingin mengakses hal ini saya bisa mencari dengan kata kunci tersebut atau membuka 'folder' dari proyek ini. Saya juga memisahkannya ke subkategori, misalnya `#sekolahkoding/marketing` untuk hal-hal yang  ingin saya lakukan di bagian marketing. Begitu juga dengan `#sekolahkoding/design` untuk kumpulan inspirasi design yang ingin dipakai. 
 
 Jika hanya menyimpan, tanpa mengelompokkan dengan baik. Kita akan kesulitan.
 
 ### 3. Membersihkan catatan
-Penting untuk menjadwalkan ini! seperti seminggu. Saat kamu sudah terbiasa mencatat, masalah berikutnya adalah catatannya sangat banyak! Mungkin ada kategori yang terlewat yang ingin diperbaiki. Atau ada catatan yang sebelumnya tidak begitu jelas, mumpung masih "fresh", bisa kamu kembangkan catatannya dan asosiasikan bagaimana bisa membantu proyek yang kamu kerjakan.
+Penting untuk menjadwalkan ini! misal seminggu sekali, mengulas note yang baru minggu ini. Saat kamu sudah terbiasa mencatat, masalah berikutnya adalah catatannya sangat banyak! 
 
-Jika memang ada yang sudah tidak diperlukan / ternyata tidak relevan, kamu bisa hapus!
+Mungkin ada kategori yang terlewat yang ingin diperbaiki atau ada catatan yang sebelumnya tidak begitu jelas, mumpung masih "fresh", bisa kamu kembangkan catatannya dan asosiasikan bagaimana bisa membantu proyek yang kamu kerjakan.
+
+Jika memang ada yang sudah tidak diperlukan atau ternyata tidak relevan, kamu bisa hapus.
 
 
 ## Tips memilih aplikasi
-Ada banyak aplikasi mencatat. Setiap orang bisa punya aplikasi andalan masing-masing. Hal yang penting diperhatikan
+Ada banyak aplikasi mencatat. Setiap orang bisa punya aplikasi andalan masing-masing. Hal yang penting diperhatikan: 
 
 **Nyaman untuk kamu**  
-Jangan karena saya bilang A, kamu jadi mau pakai A. Rumput tetangga selalu lebih hijau. Perlu untuk mencoba langsung dan merasakan aplikasi mana yang cocok untuk kamu.  
+Jangan karena ada orang populer bilang A, kamu jadi mau pakai A. Rumput tetangga selalu lebih hijau. Perlu untuk mencoba langsung dan merasakan aplikasi mana yang cocok untuk kamu.  
 
 Saya pribadi menyarankan untuk yang tidak tergantung dengan device atau bisa diakses dari mana saja dengan internet. Ada Notion, Evernote, Remnote, Mem, dkk. Silahkan rekomendasikan aplikasi yang kamu pakai di kolom komentar. Saya pribadi pakai BearNotes (khusus Mac/iOS).
 
@@ -129,10 +134,10 @@ Aplikasi kamu harus punya fitur untuk membuat kategori. Biasanya dengan memberi 
 Harus punya fitus mencari dengan mudah. Kamu bisa melihat semua catatan kamu berdasarkan kata kunci tertentu. Misalnya mengetik "luar negeri", semua catatan kamu yang ada kata luar negeri nya , entah itu ide kamu untuk jalan-jalan ke luar negeri, riset tentang negara tertentu atau apapun itu, bisa muncul saat dicari.
 
 **Hal lain**  
-Ada aplikasi yang mensupport backlink / graph untuk memudahkan kamu membuat koneksi antar catatan secara otomatis. Seperti Roam, Remnote, Obsidian dll. Tapi saya tidak sarankan untuk pemula, karena sejauh ini penggunannya tidak begitu intuitif yang jadi bikin kamu malas mencatat.
+Ada aplikasi yang mensupport backlink / graph untuk memudahkan kamu membuat koneksi antar catatan secara otomatis. Seperti Roam, Remnote, Obsidian dll. Tapi saya tidak sarankan untuk pemula, karena sejauh ini penggunaannya tidak begitu intuitif yang jadi bisa bikin malas mencatat.
 
 
-## Perbedaan secondbrain dengan nge-blog
+## Perbedaan Second Brain dengan nge-blog
 Tujuan dari secondbrain ini bukanlah blog yang bisa dikonsumsi oleh orang lain. Ini adalah catatan pribadi kamu! boleh seprivat mungkin, bukan konsumsi umum. 
 
 Tentu saja, catatannya bisa kamu olah dipublikasikan nanti (seperti artikel ini).
@@ -142,15 +147,17 @@ Kenapa perlu membedakan ini sebagai catatan privat? karena orang-orang cenderung
 Nah sekarang kamu sudah tahu, catatan ini untuk konsumsi kamu pribadi, hal yang bisa membantu kamu, bukan untuk orang lain. Karena itu tidak masalah saat catatan kamu jelek.
 
 
-## Perbedaan secondbrain dengan jurnal hari-hari?
-Bisa jadi membuat jurnal adalah bagian dari secondbrain. Untuk kamu yang belum pernah berjurnal, Jurnal adalah catatan kamu tentang hari ini, baik sebelum atau sesudah. 
+## Perbedaan  Second Brain dengan jurnal sehari-hari?
+Bisa jadi membuat jurnal adalah bagian dari secondbrain. Untuk kamu yang belum tahu berjurnal: Jurnal adalah catatan kamu tentang hari ini. 
 
 Seperti rencana, kegiatan yang dilakukan apa saja, apa yang kamu sukai hari ini (yang kamu syukuri), apa yang kamu tidak suka, yang bisa diperbaiki dst.. 
 
-Istilah jurnal biasanya bersifat lebih ke aktivitas sehari-hari, terikat dengan waktu dan rasa yang kamu alami. (Tentu tidak ada aturan baku). Sementara second brain di sini, lebih membantu kamu secara umum, termasuk ke dunia pekerjaan/proyek yang kamu hadapi.
+Istilah jurnal biasanya bersifat lebih ke aktivitas sehari-hari, terikat dengan waktu dan rasa yang kamu alami. (Tentu tidak ada aturan baku). 
 
-## Tips ber-secondbrain
-Second brain bukan hanya catatan atau kumpulan link. Ada banyak hal yang bisa menjadi bentuk atau bagian dari second brain. Seperti jurnaling di atas.
+Sementara second brain, lebih untuk membantu kamu secara umum, termasuk ke dunia pekerjaan/proyek yang kamu hadapi. Dan tidak terikat waktu per hari.
+
+## Tips ber-Secondbrain
+Second brain bukan hanya catatan atau kumpulan link. Ada banyak hal yang bisa menjadi bentuk atau bagian dari second brain. Seperti jurnaling di atas, ada lagi yang lain:
 
 ### Membuat To Do List
 Setiap hari saya membuat di catatan, hal apa saja yang harus saya lakukan hari ini. Sehingga pada saat ada gangguan, saya bisa ingat kembali apa yang sedang dikerjakan. 
@@ -201,10 +208,12 @@ Apa yang kamu catat hari ini belum tentu selesai hari ini. Izinkan catatan kamu 
 Second brain bukan sekedar tempat mencatat. Tapi proyek-proyek atau problem kamu bisa perlahan terselesaikan dengan asisten berpikir ini.
 
 ## Contoh non-digital
-[Ryan Holiday](https://twitter.com/ryanholiday), penulis banyak buku bestseller bertema stoic, pernah menceritakan metode ia saat membaca buku atau melakukan riset, adalah menulisnya ke catatan-catatan kecil. (pulpen + kertas). Lalu membaca catatannya ini saat akan menulis buku.
+[Ryan Holiday](https://www.youtube.com/watch?v=dU7efgGEOgk), penulis banyak buku bestseller bertema stoic, pernah menceritakan metode ia saat membaca buku atau melakukan riset, adalah menulisnya ke catatan-catatan kecil. (pulpen + kertas). Lalu menyusun catatannya ini saat akan menulis buku.
 
 ## Selesai!
 Itu dia teman-teman. Salut kalau kamu baca sampai selesai. Jangan sungkan untuk berbagi pengalaman kamu, apa yang sulit, apa yang berhasil kamu kerjakan dalam secondbrain ini di kolom komentar.
+
+Apapun istilah yang ingin kamu berikan untuk hal ini, "mencatat", "jurnaling" atau "second brain" , semoga ini bisa membantu kamu!
 
 Beri juga saran apa yang bisa saya kembangkan dari catatan ini.
 
