@@ -1,0 +1,11 @@
+baseURL = 'https://menulis.xyz/'
+languageCode = 'id'
+title = 'Menulis!'
+theme = 'menulis-theme'
+
+[params]
+  author = 'hilmanski'
+  description = 'Tulisan tentang menulis'
+
+[permalinks]
+  posts = '/:slug/'

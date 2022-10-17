@@ -1,0 +1,13 @@
+{
+  "name": "menulis-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "scripts": {
+    "build": "npx tailwindcss -i ./assets/tailwind.css -o ./assets/style.css",
+    "watch": "npx tailwindcss -i ./assets/tailwind.css -o ./assets/style.css --watch"
+  }
+}

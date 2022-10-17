@@ -1,0 +1,27 @@
+{{ define "main" }}
+   
+
+    <p class="mt-5">
+        Membaca untuk melihat dunia. <br>
+        Menulis untuk membuat dunia.
+    </p>
+    
+    <p class="mt-2">
+        Menulis banyak membantu 
+        <a class="text-sky-300 underline" href="https://hilman.space" target="_blank"> saya </a>. <br>
+        Semoga tulisan-tulisan ini bisa membantu kamu.   <br> 
+        Baca <a href="manifesto" class="text-sky-300 underline"> manifesto di sini</a>
+    </p>
+
+    <div class="mt-10">
+        <h3 class="text-2xl text-orange-300 mb-3">/ Daftar tulisan</h3>
+        <ul class="list-disc list-inside">
+        {{ range .Site.RegularPages }}
+            <li>
+                <a href="{{.Permalink}}" class="text-sky-300 hover:text-sky-500"> {{ .Title }} </a>
+            </li>
+        {{ end }}
+        </ul>
+    </div>
+
+{{ end }}
