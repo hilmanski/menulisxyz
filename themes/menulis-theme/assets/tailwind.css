@@ -4,6 +4,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&display=swap');
 
+body {
+    max-width: 800px;
+}
+
 .single {
     font-family: 'PT Serif', serif;
 }
@@ -22,3 +26,61 @@
     list-style-position: inside;
 }
 
+.single a {
+    color: rgb(112, 194, 221);
+}
+.single a:hover {
+    color: rgb(15, 171, 222);
+}
+
+.single h2, .single h3 {
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #6DE7B7;
+    font-family: sans-serif;
+}
+
+.single h2 {
+    font-size: 1.5rem;
+}
+
+.single h2::before {
+    content: "// ";
+}
+
+.single h3 {
+    font-size: 1.3rem;
+}
+
+.single h3::before {
+    content: "/// ";
+}
+
+.single iframe{
+    margin: 25px auto;
+}
+
+.single code {
+    background-color: #a65050;
+    padding: 2px;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+
+#TableOfContents{
+    max-width: 250px;
+}
+
+#TableOfContents li{
+    margin-bottom: 3px;
+}
+
+#TableOfContents li::before{
+    content: "• ";
+}
+
+#TableOfContents li ul {
+    padding-left: 10px;
+}
