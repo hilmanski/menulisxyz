@@ -77,14 +77,16 @@ Poinnya adalah selalu simpan hal menarik yang kamu temukan atau pikirkan. Jangan
 ### Gunakan aplikasi untuk menyimpan bit ini
 Sehari-hari kita dekat dengan handphone ataupun komputer, manfaatkan alat ini. Jangan sekedar menjadi media hiburan. 
 
+**Aplikasi mencatat**  
+Tuliskan isi pikiran kamu dan refrensi refrensi menarik dalam satu aplikasi catatan. Untuk memulai di produk apple ada "notes", windows ada "notepad". Setiap hari bermunculan aplikasi baru yang bisa kamu coba. Atau aplikasi online "Notion" yang saat ini sedang populer digunakan.
+
 **Bookmark Manager**  
-Untuk menyimpan link, kamu bisa menggunakan **bookmark manager**. Biasanya kita install di browser yang digunakan. Ketemu tweet menarik, artikel, link tool baru, segera simpan!.
+Untuk menyimpan link, kamu bisa menggunakan **bookmark manager**. Biasanya diinstall di browser yang digunakan. Ketemu tweet menarik, artikel, link baru, video seru, segera simpan!.
 Contoh: [raindrop](https://raindrop.io/), [pocket](https://getpocket.com/en/), dll.
 
-**Aplikasi mencatat**  
-Ini sangat penting di second brain. Kamu bukan hanya mengumpukan link/catatan tapi juga menuliskan isi pikiran kamu. Di apple ada "notes", windows ada "notepad". Setiap hari bermunculan aplikasi baru yang bisa kamu coba.
+Kamu juga bisa menggunakan aplikasi mencatat sebagai tempat menyimpan link. Hanya saja bookmark manager lebih praktis.
 
-Di bagian bawah ada tips untuk memilihnya.
+Di bagian bawah nanti ada tips untuk memilih toolnya.
 
 ### 2. Mengelompokkan bit
 Disarankan untuk mengkategorikan catatan/link yang kamu kumpulkan per "proyek" yang ingin kamu lakukan. Contoh saya sedang mengerjakan "sekolah online untuk koding". Baik inspirasi design, teknik membuat, podcast edukasi saya kumpulkan di bawah kategori yang sama dengan nama `#sekolahkoding`. 
@@ -123,22 +125,22 @@ Harus punya fitus mencari dengan mudah. Kamu bisa melihat semua catatan kamu ber
 Ada aplikasi yang mensupport backlink / graph untuk memudahkan kamu membuat koneksi antar catatan secara otomatis. Seperti Roam, Remnote, Obsidian dll. Tapi saya tidak sarankan untuk pemula, karena sejauh ini penggunannya tidak begitu intuitif yang jadi bikin kamu malas mencatat.
 
 
-## Otak kedua ini untuk kamu! (bukan blog)
-Tujuan dari otak kedua ini bukanlah blog yang bisa dikonsumsi oleh orang lain. Ini adalah catatan pribadi kamu! boleh seprivat mungkin, bukan konsumsi umum. 
+## Perbedaan secondbrain dengan nge-blog
+Tujuan dari secondbrain ini bukanlah blog yang bisa dikonsumsi oleh orang lain. Ini adalah catatan pribadi kamu! boleh seprivat mungkin, bukan konsumsi umum. 
 
-Tentu saja, catatannya bisa kamu olah dan jadikan konsumsi publik (seperti artikel ini).
+Tentu saja, catatannya bisa kamu olah dipublikasikan nanti (seperti artikel ini).
 
-Kenapa perlu membedakan publik/privat? karena orang-orang cenderung tidak mau mencatat karena merasa "tulisannya jelek", "apa kata orang". 
+Kenapa perlu membedakan ini sebagai catatan privat? karena orang-orang cenderung tidak mau mulai mencatat dengan alasan merasa "tulisannya jelek" atau memikirkan apa kata orang nanti. 
 
 Nah sekarang kamu sudah tahu, catatan ini untuk konsumsi kamu pribadi, hal yang bisa membantu kamu, bukan untuk orang lain. Karena itu tidak masalah saat catatan kamu jelek.
 
 
-## Perbedaan dengan membuat jurnal hari-hari?
+## Perbedaan secondbrain dengan jurnal hari-hari?
 Bisa jadi membuat jurnal adalah bagian dari secondbrain. Untuk kamu yang belum pernah berjurnal, Jurnal adalah catatan kamu tentang hari ini, baik sebelum atau sesudah. 
 
 Seperti rencana, kegiatan yang dilakukan apa saja, apa yang kamu sukai hari ini (yang kamu syukuri), apa yang kamu tidak suka, yang bisa diperbaiki dst.. 
 
-Istilah jurnal biasanya bersifat lebih ke aktivitas sehari-hari dan rasa yang kamu alami. (Tentu tidak ada aturan baku). Sementara second brain di sini, lebih membantu kamu secara umum, termasuk ke dunia pekerjaan/ proyek yang kamu hadapi.
+Istilah jurnal biasanya bersifat lebih ke aktivitas sehari-hari, terikat dengan waktu dan rasa yang kamu alami. (Tentu tidak ada aturan baku). Sementara second brain di sini, lebih membantu kamu secara umum, termasuk ke dunia pekerjaan/proyek yang kamu hadapi.
 
 ## Tips ber-secondbrain
 Second brain bukan hanya catatan atau kumpulan link. Ada banyak hal yang bisa menjadi bentuk atau bagian dari second brain. Seperti jurnaling di atas.

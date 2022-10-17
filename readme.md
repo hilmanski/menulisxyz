@@ -7,10 +7,12 @@ tagging system
 
 ## To write
 
+Why creating docs in a company is important
+
 Everything about writing. 
 	Why u believe in it.
-		-reduce my anxiety/stress
-		-help me organize my though
+		- reduce my anxiety/stress
+		- help me organize my though
 
 How people can start one.
 
