@@ -1,5 +1,6 @@
 # About
-Site for menulis.xyz
+Site for menulis.xyz  
+Hugo v0.97.3
 
 ## To do
 tagging system
