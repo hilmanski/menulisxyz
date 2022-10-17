@@ -181,6 +181,16 @@ Kamu bisa gunakan untuk pelajaran, pekerjaan, proyek sampingan, hobi atau aktivi
 ### Bukan sekali catatan selesai
 Apa yang kamu catat hari ini belum tentu selesai hari ini. Izinkan catatan kamu untuk berkembang. Bisa kamu kunjungi lagi, bisa kaitkan dengan catatan lain dan tentunya bisa diperbaiki.
 
+## Manfaat second brain
+- Memaksimalkan otak kita jadi mesin berpikir, bukan mesin pengingat.
+- Tidak mengulangi/melupakan hal yang sama/pernah terjadi.
+- Kamu punya ruang berpikir yang luas. Catatan kamu berasal dari berbagai refrensi dan bisa mengambil keputusan yang tepat.
+- Bisa mengakses informasi apapun yang kamu inginkan.
+- Punya teman berpikir. Dan bisa menvisualisasikan ide kamu.
+- Bisa mengembangkan ide yang sedikit demi sedikit dipupuk.
+
+Second brain bukan sekedar tempat mencatat. Tapi proyek-proyek atau problem kamu bisa perlahan terselesaikan dengan asisten berpikir ini.
+
 ## Selesai!
 Itu dia teman-teman. Salut kalau kamu baca sampai selesai. Jangan sungkan untuk berbagi pengalaman kamu, apa yang sulit, apa yang berhasil kamu kerjakan dalam secondbrain ini di kolom komentar.
 
