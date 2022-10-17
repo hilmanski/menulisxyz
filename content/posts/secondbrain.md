@@ -52,6 +52,8 @@ Akibatnya:
 
 Second Brain ini bukanlah aplikasi atau step by step yang kaku. Tapi second brain adalah cara kita mengumpulkan hal-hal (kecil atau besar) agar mudah kita olah, kelompokkan dan kembangkan nanti di luar kepala.  
 
+Sebelum mengenal istilah ini Second Brain yang dipopulerkan Tiago Forte ini, saya sudah hampir setiap hari menjadikan catatan untuk berpikir dan biar tidak lupa mengerjakan apa. Tapi ada banyak hal setelah yang saya pelajari dan praktekkan setelah mengeksplor tentang Second Brain ini. Semoga kamu juga terbantu
+
 ### 1. Menyimpan bit
 
 Bagian pertama yang sangat penting adalah menyimpan bit (hal sekecil apapun) yang biasanya kita simpan di kepala (ingat). 
@@ -197,6 +199,9 @@ Apa yang kamu catat hari ini belum tentu selesai hari ini. Izinkan catatan kamu 
 - Bisa mengembangkan ide yang sedikit demi sedikit dipupuk.
 
 Second brain bukan sekedar tempat mencatat. Tapi proyek-proyek atau problem kamu bisa perlahan terselesaikan dengan asisten berpikir ini.
+
+## Contoh non-digital
+[Ryan Holiday](https://twitter.com/ryanholiday), penulis banyak buku bestseller bertema stoic, pernah menceritakan metode ia saat membaca buku atau melakukan riset, adalah menulisnya ke catatan-catatan kecil. (pulpen + kertas). Lalu membaca catatannya ini saat akan menulis buku.
 
 ## Selesai!
 Itu dia teman-teman. Salut kalau kamu baca sampai selesai. Jangan sungkan untuk berbagi pengalaman kamu, apa yang sulit, apa yang berhasil kamu kerjakan dalam secondbrain ini di kolom komentar.

@@ -3,7 +3,8 @@ Site for menulis.xyz
 Hugo v0.97.3
 
 ## To do
-tagging system
+- tagging system
+- When reach 10 articles -> add rss, sitemap and googleweb search
 
 ## To write
 
